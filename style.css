@@ -71,3 +71,32 @@ footer a {
 .href {
     padding-left: 219px;
 }
+
+.texth3 {
+    text-align: center;
+    color: #ecb211;
+}
+
+.h3 {
+    text-align: center;
+    color: #724e0b;
+}
+
+.h1 {
+    color: darkorange;
+    text-align: center;
+}
+
+main img {
+    width: 300x;
+    height: 200px;
+    border-radius: 50px;
+    border:inset 10px #FF7800;
+}
+
+.imgphoto {
+    width: 300x;
+    height: 200px;
+    border-radius: 50px;
+    border:groove 10px #FF7800;
+}
